@@ -176,6 +176,8 @@ public class detectCollision : MonoBehaviour
     }
 }
 ```
+## Output:
+![alt text](output.png)
 
 ## Result:
 
